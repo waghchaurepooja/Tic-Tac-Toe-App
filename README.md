@@ -4,7 +4,7 @@ In this project we have tried to make a clone of <a href="https://tic-tac-toe-ap
 
 
 <img width="98%" src="
-<img width="98%" src="https://cdn-images-1.medium.com/max/1000/1*ZMFxKD8u_dbZifCWa1L_Xg.png" alt="" />" alt="" />
+<img width="98%" src="https://cdn-images-1.medium.com/max/1000/1*s9ihfdWkWShhSRcQ0q4jdA.jpeg" alt="" />" alt="" />
 
 <div style='page-break-after: always'></div>
 
